@@ -1,7 +1,7 @@
 <!-- Title -->
 
 <div align="center">
-  <img alt="Image-Algaworks-Works" src="https://app.algaworks.com/images/opengraph-generico.jpg" height="150" width="500"></img>
+  <img alt="Image-Algaworks-Works" src="https://app.algaworks.com/images/opengraph-generico.jpg" height="180" width="500"></img>
   
   <h1>Algaworks Delivery Project</h1>
   <br>
@@ -14,7 +14,6 @@
 <div>
   <br><br>
   <h2> This project is divided into 3 Modules: </h2>
-  <br>
   <ul>
     <li><h3> Module 01: </h3></li>
       <ul>
@@ -37,7 +36,7 @@
           <li>Implementing Exception Handler</li>
           <li>Implementing Domain Services</li>
        </ul>
-     <li><h3> Module 02: </h3></li>
+     <li><h3> Module 03: </h3></li>
        <ul>
         <li>Implementing Delivery Request</li>
         <li>Waterfall Validation and Validation Groups</li>
@@ -52,7 +51,7 @@
 <!-- About the Project -->
 
 <div>
-  <br><br>
+  <br>
   <h2> About the project: </h2>
   <ul>
     <li><h3> Dependencies: </h3></li>
@@ -65,24 +64,22 @@
         <li>Model Mapper (Simplify requests) </li>
         <li>Springfox Swagger 2 and UI (Documentation and CRUD test)</li>
       </ul>
-      
+   <br> 
    <h2> How to test: </h2>
-  <br>
-  <h3> Step 01: Instalation: </h3>
  
   <h3> Open your git bash terminal and paste (line by line): </h3>
  
-``` 
-      git clone https://github.com/Lucas-VReal/Entregas_Algaworks
-```
-      cd Deliveries-Algaworks
-```
-      mvn clean install
-```
-      cd target
-```
-      javar -jar entregas-api-0.0.1-SNAPSHOT.jar
-```
+  ``` 
+    git clone https://github.com/Lucas-VReal/Entregas_Algaworks
+  ```
+    cd Deliveries-Algaworks
+  ```
+    mvn clean install
+  ```
+    cd target
+  ```
+    javar -jar entregas-api-0.0.1-SNAPSHOT.jar
+  ```
 <div align="center">
   
    <h3> Open your browser and paste: </h3>
