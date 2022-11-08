@@ -1,9 +1,9 @@
-create table entrega (
+create table delivery (
                          id bigint not null auto_increment,
                          taxa decimal(10,2) not null,
                          data_pedido datetime not null,
                          data_finalizacao datetime,
-                         cliente_id bigint not null,
+                         client_id bigint not null,
                          status varchar (20) not null,
 
                          destinatario_nome varchar(60) not null,
@@ -15,5 +15,5 @@ create table entrega (
                          primary key(id)
 );
 
-alter table entrega add constraint fk_entrega_cliente
-  foreign key (cliente_id) references cliente (id);
+alter table delivery add constraint fk_delivery_cliente
+  foreign key (client_id) references client (id);
