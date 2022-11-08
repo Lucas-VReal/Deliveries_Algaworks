@@ -6,7 +6,7 @@
   <h1>Algaworks Delivery Project</h1>
   <br>
   
-  ## This project was developed during the Spring Rest dive event by Algaworks
+  ## This project was developed during the Spring Rest Dive event by Algaworks
   
 </div>
 
@@ -70,7 +70,7 @@
   <h3> Open your git bash terminal and paste (line by line): </h3>
  
   ``` 
-    git clone https://github.com/Lucas-VReal/Entregas_Algaworks
+    git clone https://github.com/Lucas-VReal/Deliveries_Alfaworjs
   ```
     cd Deliveries-Algaworks
   ```
