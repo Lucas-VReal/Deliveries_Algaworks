@@ -78,7 +78,7 @@
   ```
     cd target
   ```
-    javar -jar entregas-api-0.0.1-SNAPSHOT.jar
+    java -jar entregas-api-0.0.1-SNAPSHOT.jar
   ```
 <div align="center">
   
