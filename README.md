@@ -70,7 +70,7 @@
   <h3> Open your git bash terminal and paste (line by line): </h3>
  
   ``` 
-    git clone https://github.com/Lucas-VReal/Deliveries_Alfaworjs
+    git clone https://github.com/Lucas-VReal/Deliveries_Algaworks
   ```
     cd Deliveries-Algaworks
   ```
